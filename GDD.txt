@@ -1,25 +1,26 @@
-# Roteiro:
-	
-# Mecânica:
+﻿# Mecânica:
+  Movimentação: Esquerda, Direita, Acima, Abaixo
+  Ataque: Espaço
 
 # Regras:
-    
+  Se o Jogador colidir com algum inimigo, ele morre.
+  Para destruir o boss, o jogador deve atacá-lo somente quando ele der as costas para o jogador      
 
 # Estilo de Jogabilidade:
   Plataforma
         
-# Temática:
-  Medieval  
+# Temática:  
+  Medieval
   
-# Level Design:
-
-# Características:
-
-
 # Personagens:
-	
+  Jogador: Rei
+  Inimigos: Guardas
+  Boss: Rei Gigante do MAL	
   
 # Condição de Vitória:
-
+  Desviar dos inimigos
+  Atacar o boss 10 vezes até acabar com sua vida
 	
 # Condição de Derrota:
+  Fase: Não colidir com os inimigos que aparecem
+  Boss: Não atacá-lo de Frente
