@@ -1,6 +1,6 @@
 # Bunny King
 
-/*![GitHub Logo](Banner.jpg)*/
+![GitHub Logo](Banner.jpg)
 
 ## Contributors
 
