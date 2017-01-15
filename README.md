@@ -1,4 +1,4 @@
-# Bunny King
+# Knight
 
 ## Contributors
 
