@@ -1,5 +1,16 @@
 # Bunny King
 
-When a cruel king invaded his village and took everything that once was of him, Bunny King managed to escape alive to one day honor his people and let them free again.
+/*![GitHub Logo](Banner.jpg)*/
+
+## Contributors
+
+[Paulo Matos](https://github.com/jrmatos)
+
+[Fernando Dantas](https://github.com/fernandodantasfilho)
+
+## Game 
+
+[Play it](https://fernandodantasfilho.github.io//)
+
 
 MIT Licensed.
