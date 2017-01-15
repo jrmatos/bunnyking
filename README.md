@@ -1,7 +1,5 @@
 # Bunny King
 
-![GitHub Logo](Banner.jpg)
-
 ## Contributors
 
 [Paulo Matos](https://github.com/jrmatos)
@@ -10,7 +8,7 @@
 
 ## Game 
 
-[Play it](https://fernandodantasfilho.github.io//)
+[Play it](https://jrmatos.github.io/bunnyking)
 
 
 MIT Licensed.
